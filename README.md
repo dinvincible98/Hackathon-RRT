@@ -17,13 +17,19 @@ Demo:
 
 ![Simple_RRT](https://user-images.githubusercontent.com/70287453/101854628-85d4a100-3b27-11eb-8850-4975f2b3603b.gif)
 
+### Task2
 
+Implement RRT to plan a path when obstacles(Dark circles) is around. The result should indicate the start and end point, and a clear path without colliding obstacles.
 
+Demo:
 
+![obstacles_RRT](https://user-images.githubusercontent.com/70287453/101854627-85d4a100-3b27-11eb-8882-f27549fc37db.gif)
 
+### Task3
 
+Import a NU picture and set the Letter 'N' as obstacles. Similar to task2, the program should return a clear path without colliding obstacles(Letter 'N') using RRT. The initial point is set to (40,40) and endpoint is (60,60).
 
-
+Demo:
 
 ![NU_RRT](https://user-images.githubusercontent.com/70287453/101854626-853c0a80-3b27-11eb-99be-98e928137361.gif)
-![obstacles_RRT](https://user-images.githubusercontent.com/70287453/101854627-85d4a100-3b27-11eb-8882-f27549fc37db.gif)
+
