@@ -7,3 +7,10 @@ This is a RRT challenge in MSR Hackathon at Northwestern University. Rapidly-Exp
 ## Task
 
 ### Task1
+
+Implement an RRT in a two-dimensional domain, D = [0,100] x [0,100]. Use an initial configuration of q_init = (50,50) and delta = 1.
+
+Demo:
+
+
+
