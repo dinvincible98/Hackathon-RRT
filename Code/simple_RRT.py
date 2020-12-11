@@ -10,7 +10,7 @@ def main():
     nodes = [q_init]          # List of nodes
     K = 0                     # Number of vertices in nodes
     Max = 100                 # Domain
-    delta = 2                 # Incremental distance
+    delta = 1                 # Incremental distance
     itr = 400                 # Iterations
     for K in range (itr):
         q_rand = (np.random.rand()*Max, np.random.rand()*Max)
